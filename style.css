@@ -13,7 +13,6 @@ section{
     margin-top: 50px;
     background-image: url(imeges/top-banner.png);
     background-repeat: no-repeat;
-    padding-top: 150px;
 }
 .image-baner{
     margin-right: 100px;
@@ -26,4 +25,21 @@ section{
     border-radius: 7%;
     font-weight: 400;
     background-image: linear-gradient(rgb(231, 146, 131), red);
+}
+.medil-benar{
+    display: flex;
+
+    
+}
+.medil-imeges{
+    margin-left: 100px;
+    margin-top: 50px;
+
+}
+.medil-text{
+    margin-left: 200px;
+    margin-top: 200px;
+    padding-right: 50px;
+
+
 }
